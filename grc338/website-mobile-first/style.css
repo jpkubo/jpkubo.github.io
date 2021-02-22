@@ -7,8 +7,7 @@ div.container {
 }
 
 img {
-    width: 80%; 
-    padding: 1em 2em;
+    width: 100%;
 }
 
 nav ul{
@@ -26,7 +25,6 @@ nav ul li{
     font-size: 1.4em;
     text-transform: uppercase;
     letter-spacing: .05em;
-    padding: .5em .5em;
 }
 
 nav ul li a{
